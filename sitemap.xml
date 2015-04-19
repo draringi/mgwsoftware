@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+<url>
+    <loc>http://www.mgwsoftware.com</loc>
+    <lastmod>2014-02-11T16:57:05-05:00</lastmod>
+</url>
+<url>
+    <loc>http://www.mgwsoftware.com/css/pure-min.css</loc>
+    <lastmod>2014-02-06T18:00:43-05:00</lastmod>
+</url>
+<url>
+    <loc>http://www.mgwsoftware.com/</loc>
+    <lastmod>2014-02-11T16:57:05-05:00</lastmod>
+</url>
+<url>
+    <loc>http://www.mgwsoftware.com/cv</loc>
+    <lastmod>2014-02-11T16:57:06-05:00</lastmod>
+</url>
+<url>
+    <loc>http://www.mgwsoftware.com/projects</loc>
+    <lastmod>2014-02-11T16:57:06-05:00</lastmod>
+</url>
+<url>
+    <loc>http://www.mgwsoftware.com/css/site.css</loc>
+    <lastmod>2014-02-11T12:26:28-05:00</lastmod>
+</url>
+<url>
+    <loc>http://www.mgwsoftware.com/pdf/CV_Michael_G_Williams.pdf</loc>
+    <lastmod>2014-02-11T16:07:51-05:00</lastmod>
+</url>
+</urlset>
